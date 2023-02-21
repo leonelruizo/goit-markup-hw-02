@@ -1,0 +1,37 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #080000;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+
+.link:hover {
+  color: deepskyblue;
+}
+
+.buton {
+  color: #080000;
+}
+
+.secondbox {
+  background-color: #2f303a;
+}
+
+.boton {
+  background-color: #2196f3;
+}
+
+.letra {
+  color: #ffffff;
+}
+.shadow {
+  background-color: #f5f4fa;
+}
+
+ul {
+  list-style: none;
+}
