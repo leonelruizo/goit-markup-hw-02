@@ -9,6 +9,14 @@ body {
   text-align: left;
 }
 
+.font {
+  font-family: raleway;
+  width: 145px;
+  height: 31px;
+  top: 24p;
+  left: 145px;
+}
+
 .link:hover {
   color: deepskyblue;
 }
@@ -19,6 +27,10 @@ body {
 
 .secondbox {
   background-color: #2f303a;
+  width: 1600px;
+  height: 600px;
+  top: 80px;
+  left: -4px;
 }
 
 .boton {
@@ -35,3 +47,5 @@ body {
 ul {
   list-style: none;
 }
+
+
